@@ -1,0 +1,9 @@
+# Directories
+venv/
+final_data/
+__pycache__/
+.vscode/
+
+# Files
+*.tfrecord
+*.tar.gz
